@@ -9,13 +9,13 @@
     font-size: 24px;
 }
 
-#1 {
+#first {
     color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
-#2 {
-    color:#90ee90;
+#second {
+    background-color:#90ee90;
     font-size: 24px;
     font-weight: 700;
 }
